@@ -1,0 +1,44 @@
+p{
+    color: aqua; background-color: rgb(70, 43, 226);padding:15px ;
+    font-family: Arial, Helvetica, sans-serif
+ ;font: weight 900px;
+ font-size: medium
+  ;text-transform: capitalize
+  ;letter-spacing: ;
+  line-height: 50px;
+  text-align: center;
+
+ }
+ .vacation{
+    width: 30%;
+ border: 3;
+ color: black;
+ }
+.vacation-container{
+    display:flex;
+    flex-wrap: ;
+    width: 30px;
+}
+.vacation_image{
+    width: 100px;
+    height: 30px ;
+    border: 3px;color: chartreuse;
+.vacation_image;
+width: 20px;
+height: 40px:
+}
+
+
+    
+    
+    
+
+
+    flex-wrap: ;
+
+    
+    
+    
+
+
+ }
